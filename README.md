@@ -3,15 +3,15 @@
 
 # Installation
 ````
-* apt update && apt upgrade
-* pkg install git
-* pkg install python
-* pip install requests
-* pip install futures
-* pip install bs4
-* git clone https://github.com/Hannan-404/King
-* cd King
-* python Hannan.py
+apt update && apt upgrade
+pkg install git
+pkg install python
+pip install requests
+pip install futures
+lip install bs4
+git clone https://github.com/Hannan-404/King
+cd King
+python KING.py
 ````
 
 # FREE💖
